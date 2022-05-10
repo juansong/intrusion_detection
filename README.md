@@ -1,4 +1,4 @@
-# Intrusion Detection Model (ML pipeline)
+# Intrusion Detection Model
 
 1. network packet data preprocessing
 2. exploratory data analysis
