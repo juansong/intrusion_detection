@@ -1,5 +1,7 @@
 # Intrusion Detection Model
 
+이상치 분석을 이용하여 네트워크 공격을 탐지하는 모델 
+
 1. network packet data preprocessing
 2. exploratory data analysis
 3. feature engineering / selection
